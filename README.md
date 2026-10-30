@@ -1,4 +1,4 @@
-# Network Walks - Batch B084 (Week 1)
+# Network Walks - Batch B084D (Week 1)
 ### Cybersecurity Lab Setup & Wireshark Traffic Analysis
 
 This repository contains in-depth packet capture (PCAP) inspection, network reconnaissance detection, cleartext protocol vulnerability analysis, and VoIP signaling review completed across Week 1 hands-on labs with 100% verified assessment scores.
